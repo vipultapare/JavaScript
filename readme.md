@@ -19,6 +19,10 @@
 
   <p>Call Stack maintains the order of execution of execution context </p>
   <p>It is also known by: Execution Context Stack , Program Stack , Control Stack , Runtime Stack , Machine Stack. </p>
-  
+
+  <hr/>
+<h1>Day 4<h1>
+<h2>Hoisting</h2>
+<p> we can acces the function or variables without initialize it. </p>
 
 
