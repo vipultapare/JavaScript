@@ -26,3 +26,23 @@
 <p> we can acces the function or variables without initialize it. </p>
 
 
+<hr/>
+
+<h2>Window</h2>
+<p>Global Variable  are stored inside window object.Wherever execution context is created this variable is get created..
+</p>
+
+
+<h1>Java Script is loosely type language: If we define a as a number we can later assign a as string also. </h1>
+
+<h1>Lexiacal Evvoirment</h1>
+<p>In order or in Hierarchi</p>
+
+
+<h1>Temporal Dead Zone</h1>
+<p>from hoisting till it get the value or initialize the value called as temporal zone. Whereever we try to access the variable in the temporal dead zone it willl thorw the reference-error. </p>
+
+
+<h1>What is Block</h1>
+<p>It Grouped statement</p>
+
