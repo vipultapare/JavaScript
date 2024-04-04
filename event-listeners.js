@@ -15,3 +15,8 @@ attached();
 
 
 // it is called back function
+
+
+// Garbage Collection and remove event -Listeners
+
+// Event listeners are heavy it takes more memmory. 
