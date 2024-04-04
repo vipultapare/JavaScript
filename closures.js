@@ -43,3 +43,30 @@ function a()
 }
 
 a();
+
+
+///////////////////////////////////////
+
+console.log("Counter Function")
+
+
+function counter()
+{
+  var count = 0;
+  this.increment = function()
+  {
+    count++;
+    console.log(count);
+  }
+  this.decrement = function()
+  {
+    count--;
+    console.log(count);
+  }
+
+}
+
+var c = new counter();
+c.increment();
+c.increment();
+c.decrement();
