@@ -9,8 +9,9 @@ function a(){
 
 a();
 
-
 // function expression  or named  function expression
+
+console.log("function expression");
 console.log(b); //  throws an error  or undefined
 var b = function c(){
   console.log("Hello");
